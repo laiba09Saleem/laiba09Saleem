@@ -104,8 +104,8 @@ Built 8+ ML models (Scikit-learn, PyTorch, and TensorFlow), including a MobileNe
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/laiba-s-4b8541248)
-- [LeetCode](https://leetcode.com/Laiba_Saleem/)
-- [Freelancer](https://www.freelancer.pk/u/laibasaleem068)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laiba-s-4b8541248)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Laiba_Saleem/)
+[![Freelancer](https://img.shields.io/badge/Freelancer-0E86D4?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.pk/u/laibasaleem068)
 
 ### ✨ Thanks for visiting my GitHub profile! ✨
